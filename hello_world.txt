@@ -3,3 +3,6 @@ Hello World.
 Welcome to the world of Becoming a Full Stack JavaScript Developer.
 
 Let's Go !!!
+
+Link to helpful Cheat Sheet of Git Commands:
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/git-basics

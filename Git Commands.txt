@@ -1,0 +1,26 @@
+1) git clone <ssh url to repository>
+To clone the repository in local machine.
+git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+
+2) git status
+To check the status of files in local and remote repo.
+
+3) git add <filename to add to staging> 
+eg. git add hello.txt
+To add file/ files in staging area (waiting room before commit).
+git add . --> adds all files in current directory as well as in sub-directories in staging area.
+
+4) git commit -m "<type ur message for refering to the changes to this commit>"
+To commit the changes locally.
+
+5) git log 
+To check who, when and what changes are made.
+
+6) git push origin main
+To push the changes of local commit to remote repository.
+
+origin is referred to remote repository.
+main is the local default branch.
+
+7) git remote -v
+The command output will show the link to remote repository.
